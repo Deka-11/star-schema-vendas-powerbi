@@ -164,9 +164,9 @@ O diagrama apresenta os relacionamentos configurados no Power BI Desktop.
 
 | Arquivo | Descrição |
 |---|---|
-| Star_Schema_Vendas_DIO.pbix | Projeto desenvolvido no Power BI |
-| Star_Schema_Vendas_DIO.png | Imagem do modelo dimensional |
-| README.md | Documentação do projeto |
+|`Projeto_Star_Schema_Vendas.pbix` | Projeto desenvolvido no Power BI |
+| `Star_Schema_Vendas.png` | Imagem do modelo dimensional |
+| `README.md` | Documentação do projeto |
 
 ## 📚 Aprendizados
 
