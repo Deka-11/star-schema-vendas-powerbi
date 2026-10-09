@@ -156,7 +156,7 @@ Essas tabelas possuem múltiplas linhas por produto e exigem cuidado na agregaç
 
 ## ⭐ Diagrama do Modelo Dimensional
 
-![Modelo Dimensional de Vendas](Star_Schema_Vendas_DIO.png)
+![Modelo Dimensional de Vendas](Star_Schema_Vendas.png)
 
 O diagrama apresenta os relacionamentos configurados no Power BI Desktop.
 
