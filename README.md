@@ -160,13 +160,15 @@ Essas tabelas possuem múltiplas linhas por produto e exigem cuidado na agregaç
 
 O diagrama apresenta os relacionamentos configurados no Power BI Desktop.
 
+
 ## 📁 Arquivos do Projeto
 
 | Arquivo | Descrição |
 |---|---|
-|`Projeto_Star_Schema_Vendas.pbix` | Projeto desenvolvido no Power BI |
-| `Star_Schema_Vendas.png` | Imagem do modelo dimensional |
-| `README.md` | Documentação do projeto |
+| [Projeto_Star_Schema_Vendas.pbix](./Projeto_Star_Schema_Vendas.pbix) | Arquivo do projeto para abrir no Power BI Desktop |
+| [Star_Schema_Vendas.png](./Star_Schema_Vendas.png) | Visualizar o diagrama dimensional |
+| [README.md](./README.md) | Visualizar a documentação completa |
+
 
 ## 📚 Aprendizados
 
